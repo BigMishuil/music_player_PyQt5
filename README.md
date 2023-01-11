@@ -1,5 +1,7 @@
 Music player with GUI(PyQt5).
 
+---
+
 ### Setup
 
 ```
