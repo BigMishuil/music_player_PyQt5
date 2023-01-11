@@ -1,4 +1,4 @@
-Music player with GUI(PyQt5).
+Music player using PyQt5-Python.
 
 ---
 
